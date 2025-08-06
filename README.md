@@ -17,5 +17,5 @@ Hier zeige ich meine Projekte, Skills und wie man mich kontaktieren kann. Die Se
 
 ## 🔗 Live-Demo
 
-[👉 Hier ansehen (GitHub Pages)](https://deinusername.github.io/deinrepo)  
+[👉 Hier ansehen (GitHub Pages)][(https://sedin-mulasalihovic.github.io/portfolio/)]
 *(URL nach dem Veröffentlichen anpassen)*
