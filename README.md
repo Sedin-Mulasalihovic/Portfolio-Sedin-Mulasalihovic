@@ -13,4 +13,3 @@ Sie können mir gerne auf YouTube folgen "[CodeX][youtube]" bald kommen videos b
 
 <p align="center">
   <a href="https://www.youtube.com/@CodeX-404-yt">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
