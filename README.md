@@ -9,7 +9,8 @@ Ich habe mit JS simple Projekte geschrieben habe mich oft insperieren lassen von
 Leider hatte ich in der Zeit nicht einen PC und habe somit auf meinen alten Huawei P20 Lite Handy Programmieren gelernt.
 2022 Habe ich mit einer meinen besten kumpels angefangen Python zu lernen wir sind sehr weit gekommen innerhalb von 6 Monaten schon.
 Wir haben erst die Grundlagen gelernt und versucht einiges zu verstehen und sind relativ sehr schnell auf websockets gelandet und haben somit unseren ersten server gemacht oder einfach eine WhatsApp kopie.
-Sie können mir gerne auf YouTube folgen "[CodeX][youtube]" bald kommen videos bleibt dran.
+Sie können mir gerne auf YouTube folgen bald kommen videos bleibt dran.
 
 <p align="center">
   <a href="https://www.youtube.com/@CodeX-404-yt">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"/></a>
