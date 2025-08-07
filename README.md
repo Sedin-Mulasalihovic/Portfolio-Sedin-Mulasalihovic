@@ -1,6 +1,6 @@
 # 🧑‍💻 Sedin Mulasalihovic – Portfolio
 
-Willkommen auf meiner Portfolio-Webseite!  
+Willkommen auf meinen github kanal! 
 Hier zeige ich meine Projekte, Skills und wie man mich kontaktieren kann. Die Seite wurde mit **HTML**, **CSS** und **JavaScript** erstellt und ist für Desktop und Mobilgeräte optimiert.
 
 ---
@@ -15,7 +15,7 @@ Hier zeige ich meine Projekte, Skills und wie man mich kontaktieren kann. Die Se
 
 ---
 
-## 🔗 Live-Demo
+## 🔗 Meine Webseite
 
 [👉 Hier ansehen (GitHub Pages)](https://sedin-mulasalihovic.github.io/portfolio/)
 
