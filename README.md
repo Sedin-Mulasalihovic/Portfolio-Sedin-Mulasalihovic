@@ -1,28 +1,25 @@
 # 👋 Hallo! Ich bin Sedin Mulasalihovic
 
+---
+
 ## 🧑‍💻 Über mich
 
-Hey! Ich heiße **Sedin**, bin **15 Jahre alt** und beschäftige mich seit über **4 Jahren mit Programmierung**.  
-Meine Reise begann früh – mit **11 Jahren**, als ich zum ersten Mal mit **HTML** und **CSS** experimentierte und einfache Webseiten erstellte.
+Ich heiße **Sedin**, bin **15 Jahre alt** und programmieren begleitet mich schon über **4 Jahre**! Den Einstieg habe ich mit **HTML & CSS** gemacht – mit 11 Jahren fing alles an, als ich einfache Webseiten gebaut habe.
 
-Trotz technischer Hürden – ich hatte **keinen PC**, sondern nur ein altes **Huawei P20 Lite** – habe ich **nicht aufgegeben**. Ich habe mir selbst Programmieren beigebracht – auf dem Handy.  
-Dieses Durchhaltevermögen begleitet mich bis heute. 💪
+Trotz technischer Einschränkungen (ich hatte nur ein altes **Huawei P20 Lite**) habe ich mich durchgebissen und weitergemacht – angefangen mit dem Handy zu programmieren, später auf JavaScript erweitert. 2022 habe ich dann mit einem Freund Python und WebSockets erkundet, bis hin zum Bau eines echten Discord-Bots.
 
 ---
 
 ## 🚀 Mein Weg
 
-- 🧱 **2019/2020**: Erste Schritte mit **HTML & CSS** – einfache Webseiten gebaut.
-- 🔁 **Nach 3 Monaten**: Einstieg in **JavaScript** – interaktive Webprojekte entwickelt.
-- 💡 Ich ließ mich durch viele YouTuber & Open-Source-Projekte inspirieren.
-- 📱 Alles auf dem Handy programmiert – ohne Laptop, ohne IDE.
-- 🐍 **2022**: Mit einem Freund zusammen **Python** gelernt – sehr intensiv und schnell.
-- 🌐 Erste größere Projekte mit **WebSockets**, Automatisierungen und Discord-Bots.
-- 🤖 Heute baue ich Webseiten, Discord-Bots, Tools & arbeite an kreativen Projekten.
+- 2019/2020 – Erste Webseiten mit **HTML & CSS**
+- Kurz danach – Einstieg in **JavaScript**
+- Programmieren auf dem Handy – keine Ausreden, nur Code!
+- 2022 – Start in **Python**, WebSockets & Discord-Bot-Entwicklung
 
 ---
 
-## 🧠 Technologien & Skills
+##  Fähigkeiten & Technologien
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -33,46 +30,32 @@ Dieses Durchhaltevermögen begleitet mich bis heute. 💪
 
 ---
 
-## 📁 Projekte (Auswahl)
+##  Highlight-Projekte
 
-### 🌐 [Mein Portfolio (Live ansehen)](https://sedin-mulasalihovic.github.io/portfolio/)
-> Eine moderne, responsive Portfolio-Webseite, gebaut mit HTML, CSS & JavaScript.  
-> Dunkles Design, Animationen, Skills, Projektübersicht & Kontaktformular.
+###  [Portfolio-Webseite (Live)](https://sedin-mulasalihovic.github.io/portfolio/)
+- Dunkles, modernes Design, responsive Layouts mit Animationen
 
-### 🤖 [CodeXBot – Mein Discord Bot](https://github.com/Sedin-Mulasalihovic/CodeXBot)
-> Ein vielseitiger Discord-Bot mit Levelsystem, Commands, Logs & vielem mehr.  
-> Entwickelt mit Python & Discord API.
+###  [CodeXBot – Discord Bot](https://github.com/Sedin-Mulasalihovic/CodeXBot)
+- Selbstgemacht, mit Levelsystem, Commands & Module-Struktur in Python
 
 ---
 
-## 📺 YouTube
+##  Mein YouTube-Kanal
 
-Ich plane bald **YouTube-Videos** zu veröffentlichen – Tutorials, Projekte, Challenges & mehr!  
-➡️ **Bleib dran!** Bald geht’s los.
-
-🔗 [**Hier geht’s zu meinem Kanal**](https://youtube.com/@CodeX-404-yt)
-
-*(Sobald du mir den Link gibst, ersetze ich den Platzhalter!)*
+Ich starte demnächst auf YouTube! Dort findest du Tutorials, Projektideen und Coding-Inhalte – all das kommt bald, bleib dran:  
+👉 [**YouTube: CodeX‑404**](https://www.youtube.com/@CodeX-404-yt) :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 📫 Kontakt
+##  Kontakt & Let’s Code
 
-- 📧 **E-Mail**: [sedin.mulasalihovic@gmail.com](mailto:sedin.mulasalihovic@gmail.com)  
-- 💬 **Discord**: `ccodex_404`  
-- 🌐 **GitHub Pages Portfolio**: [sedin-mulasalihovic.github.io/portfolio](https://sedin-mulasalihovic.github.io/portfolio)
-
----
-
-## ✨ Motivation
-
-Ich liebe es, durch Code Probleme zu lösen, neue Dinge zu lernen und mich stetig weiterzuentwickeln.  
-Egal ob es Webseiten, Bots oder Tools sind – ich gehe mit Leidenschaft an jedes Projekt ran.  
-Wenn du mit mir zusammenarbeiten willst oder einfach nur „Hi“ sagen willst – schreib mir gern! 🙌
+- **E-Mail:** [sedin.mulasalihovic@gmail.com](mailto:sedin.mulasalihovic@gmail.com)  
+- **Discord:** `ccodex_404`  
 
 ---
 
-> _„Code ist nicht nur Technik – es ist Kreativität.“_
+> _„Code ist nicht nur Technik – es ist Kreativität.“_  
+Wenn du Ideen oder Fragen hast – ich freue mich immer über Austausch! 
 
 ---
 
