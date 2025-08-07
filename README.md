@@ -1,6 +1,6 @@
 # Sedin Mulasalihovic 
 
-**Digital Craftsman (Programmierer/Designer/Creator)´**
+**'Digital Craftsman (Programmierer/Designer/Creator)'**
 
 Ich heiße Sedin, ich bin 15 jahre alt und ich beschäftige mich schon seid über 4 jahren mit verschiedenen Programmiersprachen.
 Es hat alles angefangen mit HTML und CSS da habe ich ganz einfache und simple Seiten gebaut mit 11 jahren.
