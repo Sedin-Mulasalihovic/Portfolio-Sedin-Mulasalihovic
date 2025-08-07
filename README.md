@@ -1,16 +1,78 @@
-# Sedin Mulasalihovic 
+# 👋 Hallo! Ich bin Sedin Mulasalihovic
 
-**Digital Craftsman (Programmierer/Designer/Creator)**
+## 🧑‍💻 Über mich
 
-Ich heiße Sedin, ich bin 15 jahre alt und ich beschäftige mich schon seid über 4 jahren mit verschiedenen Programmiersprachen.
-Es hat alles angefangen mit HTML und CSS da habe ich ganz einfache und simple Seiten gebaut mit 11 jahren.
-Ich habe relativ sehr schnell gelernt wie alles funktoniert und bin deshalb nach ungefähr 3 Monaten bei Javascript gelandet wo es etwas spaßiger geworden ist aber alles machbar war !
-Ich habe mit JS simple Projekte geschrieben habe mich oft insperieren lassen von verschiedenen Programmiereren auf YouTube und habe somit mein erstes Snake Spiel gemacht in HTML, CSS und JS .
-Leider hatte ich in der Zeit nicht einen PC und habe somit auf meinen alten Huawei P20 Lite Handy Programmieren gelernt.
-2022 Habe ich mit einer meinen besten kumpels angefangen Python zu lernen wir sind sehr weit gekommen innerhalb von 6 Monaten schon.
-Wir haben erst die Grundlagen gelernt und versucht einiges zu verstehen und sind relativ sehr schnell auf websockets gelandet und haben somit unseren ersten server gemacht oder einfach eine WhatsApp kopie.
-Sie können mir gerne auf YouTube folgen bald kommen videos bleibt dran.
+Hey! Ich heiße **Sedin**, bin **15 Jahre alt** und beschäftige mich seit über **4 Jahren mit Programmierung**.  
+Meine Reise begann früh – mit **11 Jahren**, als ich zum ersten Mal mit **HTML** und **CSS** experimentierte und einfache Webseiten erstellte.
 
-<p align="center">
-  <a href="https://www.youtube.com/@CodeX-404-yt">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel"/></a>
+Trotz technischer Hürden – ich hatte **keinen PC**, sondern nur ein altes **Huawei P20 Lite** – habe ich **nicht aufgegeben**. Ich habe mir selbst Programmieren beigebracht – auf dem Handy.  
+Dieses Durchhaltevermögen begleitet mich bis heute. 💪
+
+---
+
+## 🚀 Mein Weg
+
+- 🧱 **2019/2020**: Erste Schritte mit **HTML & CSS** – einfache Webseiten gebaut.
+- 🔁 **Nach 3 Monaten**: Einstieg in **JavaScript** – interaktive Webprojekte entwickelt.
+- 💡 Ich ließ mich durch viele YouTuber & Open-Source-Projekte inspirieren.
+- 📱 Alles auf dem Handy programmiert – ohne Laptop, ohne IDE.
+- 🐍 **2022**: Mit einem Freund zusammen **Python** gelernt – sehr intensiv und schnell.
+- 🌐 Erste größere Projekte mit **WebSockets**, Automatisierungen und Discord-Bots.
+- 🤖 Heute baue ich Webseiten, Discord-Bots, Tools & arbeite an kreativen Projekten.
+
+---
+
+## 🧠 Technologien & Skills
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
+
+---
+
+## 📁 Projekte (Auswahl)
+
+### 🌐 [Mein Portfolio (Live ansehen)](https://sedin-mulasalihovic.github.io/portfolio/)
+> Eine moderne, responsive Portfolio-Webseite, gebaut mit HTML, CSS & JavaScript.  
+> Dunkles Design, Animationen, Skills, Projektübersicht & Kontaktformular.
+
+### 🤖 [CodeXBot – Mein Discord Bot](https://github.com/Sedin-Mulasalihovic/CodeXBot)
+> Ein vielseitiger Discord-Bot mit Levelsystem, Commands, Logs & vielem mehr.  
+> Entwickelt mit Python & Discord API.
+
+---
+
+## 📺 YouTube
+
+Ich plane bald **YouTube-Videos** zu veröffentlichen – Tutorials, Projekte, Challenges & mehr!  
+➡️ **Bleib dran!** Bald geht’s los.
+
+🔗 [**Hier geht’s zu meinem Kanal**](https://youtube.com/@CodeX-404-yt)
+
+*(Sobald du mir den Link gibst, ersetze ich den Platzhalter!)*
+
+---
+
+## 📫 Kontakt
+
+- 📧 **E-Mail**: [sedin.mulasalihovic@gmail.com](mailto:sedin.mulasalihovic@gmail.com)  
+- 💬 **Discord**: `ccodex_404`  
+- 🌐 **GitHub Pages Portfolio**: [sedin-mulasalihovic.github.io/portfolio](https://sedin-mulasalihovic.github.io/portfolio)
+
+---
+
+## ✨ Motivation
+
+Ich liebe es, durch Code Probleme zu lösen, neue Dinge zu lernen und mich stetig weiterzuentwickeln.  
+Egal ob es Webseiten, Bots oder Tools sind – ich gehe mit Leidenschaft an jedes Projekt ran.  
+Wenn du mit mir zusammenarbeiten willst oder einfach nur „Hi“ sagen willst – schreib mir gern! 🙌
+
+---
+
+> _„Code ist nicht nur Technik – es ist Kreativität.“_
+
+---
+
