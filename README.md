@@ -8,6 +8,9 @@ Ich heiße **Sedin**, bin **15 Jahre alt** und programmieren begleitet mich scho
 
 Trotz technischer Einschränkungen (ich hatte nur ein altes **Huawei P20 Lite**) habe ich mich durchgebissen und weitergemacht – angefangen mit dem Handy zu programmieren, später auf JavaScript erweitert. 2022 habe ich dann mit einem Freund Python und WebSockets erkundet, bis hin zum Bau eines echten Discord-Bots.
 
+2023 habe ich angefangen auch bisschen mit Spieleentwicklung und habe mein erstes Spiel mit **HTML,CSS & JS** gemacht.
+Kurz dannach habe ich auch meinen erstes PC bekommen und war überglücklich weil ich dann wusste jetzt kann ich Programmieren komplett durchstarten. Habe mehr über linux gelernt und somit habe ich auch Bash gelernt. Ich habe ein praktikum bei einer App entwicklungs firma gemacht die auch mit Microsoft zusammen arbeitet und habe da dann .NET gelernt also C# und habe das Praktikum mit 1,0 bestanden.
+
 ---
 
 ## 🚀 Mein Weg
@@ -43,7 +46,7 @@ Trotz technischer Einschränkungen (ich hatte nur ein altes **Huawei P20 Lite**)
 ##  Mein YouTube-Kanal
 
 Ich starte demnächst auf YouTube! Dort findest du Tutorials, Projektideen und Coding-Inhalte – all das kommt bald, bleib dran:  
-👉 [**YouTube: CodeX‑404**](https://www.youtube.com/@CodeX-404-yt) 
+👉 [**YouTube: CodeX‑404**](https://www.youtube.com/@CodeX-404-yt) :contentReference[oaicite:0]{index=0}
 
 ---
 
