@@ -19,7 +19,9 @@ Kurz dannach habe ich auch meinen erstes PC bekommen und war überglücklich wei
 - Kurz danach – Einstieg in **JavaScript**
 - Programmieren auf dem Handy – keine Ausreden, nur Code!
 - 2022 – Start in **Python**, WebSockets & Discord-Bot-Entwicklung
-
+- 2023 – Erstes Spiel entwickelt
+- 2024 – Praktikum mit 1,0 bestanden
+- 2025 – Freelancer
 ---
 
 ##  Fähigkeiten & Technologien
