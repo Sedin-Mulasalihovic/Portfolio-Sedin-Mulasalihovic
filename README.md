@@ -48,8 +48,7 @@ Kurz dannach habe ich auch meinen erstes PC bekommen und war überglücklich wei
 ##  Mein YouTube-Kanal
 
 Ich starte demnächst auf YouTube! Dort findest du Tutorials, Projektideen und Coding-Inhalte – all das kommt bald, bleib dran:  
-👉 [**YouTube: CodeX‑404**](https://www.youtube.com/@CodeX-404-yt) :contentReference[oaicite:0]{index=0}
-
+👉 [**YouTube: CodeX‑404**](https://www.youtube.com/@CodeX-404-yt) 
 ---
 
 ##  Kontakt & Let’s Code
