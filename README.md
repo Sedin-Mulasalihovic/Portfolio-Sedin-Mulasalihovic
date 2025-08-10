@@ -40,7 +40,7 @@ Kurz dannach habe ich auch meinen erstes PC bekommen und war überglücklich wei
 ###  [Portfolio-Webseite (Live)](https://sedin-mulasalihovic.github.io/portfolio/)
 - Dunkles, modernes Design, responsive Layouts mit Animationen
 
-###  [CodeXBot – Discord Bot](https://github.com/Sedin-Mulasalihovic/CodeXBot)
+###  [CodeXBot – Discord Bot](https://github.com/Sedin-Mulasalihovic/CodeXdc)
 - Selbstgemacht, mit Levelsystem, Commands & Module-Struktur in Python
 
 ---
